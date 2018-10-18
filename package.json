@@ -1,6 +1,6 @@
 {
   "name": "react-flexmonster",
-  "version": "0.0.1",
+  "version": "2.6.5",
   "license": "MIT",
   "description": "React 16.5+ Module for Flexmonster Pivot Table & Charts",
   "main": "build/index.js",
@@ -37,9 +37,9 @@
     "url": "https://github.com/flexmonster/react-flexmonster"
   },
   "bugs": {
-    "url": "https://www.flexmonster.com/forum/"
+    "url": "https://flexmonster.com/forum/"
   },
-  "homepage": "https://www.flexmonster.com/",
+  "homepage": "https://flexmonster.com/",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
