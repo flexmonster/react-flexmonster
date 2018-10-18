@@ -32,6 +32,14 @@
     "name": "Flexmonster",
     "email": "help@flexmonster.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flexmonster/react-flexmonster"
+  },
+  "bugs": {
+    "url": "https://www.flexmonster.com/forum/"
+  },
+  "homepage": "https://www.flexmonster.com/",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
