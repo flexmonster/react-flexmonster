@@ -38,7 +38,8 @@ module.exports = {
     ]
   },
   externals: {
-    'react': 'commonjs react' // this line is just to use the React dependency of our parent-testing-project instead of using our own React.
-    'react-dom': 'commonjs react-dom'
+    'react': 'commonjs react', // this line is just to use the React dependency of our parent-testing-project instead of using our own React
+    'react-dom': 'commonjs react-dom',// this line is just to use the React-Dom dependency of our parent-testing-project instead of using our own React-Dom.
+    'flexmonster': 'commonjs flexmonster'
   }
 };

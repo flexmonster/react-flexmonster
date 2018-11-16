@@ -1,15 +1,16 @@
 {
   "name": "react-flexmonster",
-  "version": "2.6.7",
+  "version": "2.6.7-5",
   "license": "MIT",
   "description": "React 16.5+ Module for Flexmonster Pivot Table & Charts",
   "main": "build/index.js",
   "peerDependencies": {
+    "flexmonster": "latest",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   },
   "dependencies": {
-    "flexmonster": "^2.6.4",
+    "flexmonster": "latest",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   },

@@ -16,6 +16,7 @@ export class Pivot extends React.Component {
                 licenseKey: React.PropTypes.string,
                 toolbar: React.PropTypes.bool,
                 customizeCell: React.PropTypes.func,
+                customizeContextMenu: React.PropTypes.func,
                 cellclick: React.PropTypes.func,
                 celldoubleclick: React.PropTypes.func,
                 dataerror: React.PropTypes.func,
@@ -24,7 +25,8 @@ export class Pivot extends React.Component {
                 datachanged: React.PropTypes.func,
                 fieldslistclose: React.PropTypes.func,
                 fieldslistopen: React.PropTypes.func,
-                filteropen: React.PropTypes.func,
+				filteropen: React.PropTypes.func,
+				filterclose: React.PropTypes.func,
                 fullscreen: React.PropTypes.func,
                 loadingdata: React.PropTypes.func,
                 loadinglocalization: React.PropTypes.func,
@@ -97,6 +99,9 @@ export class Pivot extends React.Component {
 			if (this.props.customizeCell !== undefined) {
 				config.customizeCell = this.props.customizeCell;
 			}
+			if (this.props.customizeContextMenu !== undefined) {
+				config.customizeContextMenu = this.props.customizeContextMenu;
+			}
 			// events
 			if (this.props.cellclick !== undefined) {
 				config.cellclick = this.props.cellclick;
@@ -124,6 +129,9 @@ export class Pivot extends React.Component {
 			}
 			if (this.props.filteropen !== undefined) {
 				config.filteropen = this.props.filteropen;
+			}
+			if (this.props.filterclose !== undefined) {
+				config.filterclose = this.props.filterclose;
 			}
 			if (this.props.fullscreen !== undefined) {
 				config.fullscreen = this.props.fullscreen;
