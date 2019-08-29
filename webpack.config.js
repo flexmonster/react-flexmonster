@@ -19,27 +19,13 @@ module.exports = {
             presets: ['react']
           }
         }
-      },
-      {
-        test: /\.css$/,
-        use: [
-            'style-loader',
-            'css-loader'
-        ]
-      },
-      {
-        test: /\.(woff|woff2|eot|ttf|otf|svg)$/,
-        loader: 'url-loader',
-        options: {
-          name: 'flexmonster-icons.[ext]',
-          publicPath: ''
-        }
       }
     ]
   },
   externals: {
     'react': 'commonjs react', // this line is just to use the React dependency of our parent-testing-project instead of using our own React
     'react-dom': 'commonjs react-dom',// this line is just to use the React-Dom dependency of our parent-testing-project instead of using our own React-Dom.
-    'flexmonster': 'commonjs flexmonster'
+    'flexmonster': 'commonjs flexmonster',
+    'prop-types': 'commonjs prop-types'
   }
 };
