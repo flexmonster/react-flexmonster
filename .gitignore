@@ -1,5 +1,4 @@
 /node_modules
-/build/index.js
 package-lock.json
 .nvmrc
 .npmrc
