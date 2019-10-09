@@ -32,6 +32,7 @@ Pivot.propTypes = {
 	beforetoolbarcreated: PropTypes.func,
 	cellclick: PropTypes.func,
 	celldoubleclick: PropTypes.func,
+	chartclick: PropTypes.func,
 	componentFolder: PropTypes.string,
 	customizeCell: PropTypes.func,
 	customizeContextMenu: PropTypes.func,

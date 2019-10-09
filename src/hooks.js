@@ -28,6 +28,7 @@ export function Pivot(props, ref) {
 		beforetoolbarcreated: PropTypes.func,
 		cellclick: PropTypes.func,
 		celldoubleclick: PropTypes.func,
+		chartclick: PropTypes.func,
 		componentFolder: PropTypes.string,
 		customizeCell: PropTypes.func,
 		customizeContextMenu: PropTypes.func,
