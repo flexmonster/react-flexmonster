@@ -34,6 +34,7 @@ Pivot.propTypes = {
 	celldoubleclick: PropTypes.func,
 	chartclick: PropTypes.func,
 	componentFolder: PropTypes.string,
+	customizeAPIRequest: PropTypes.func,
 	customizeCell: PropTypes.func,
 	customizeContextMenu: PropTypes.func,
 	datachanged: PropTypes.func,
