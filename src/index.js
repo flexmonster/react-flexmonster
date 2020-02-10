@@ -41,6 +41,8 @@ Pivot.propTypes = {
 	dataerror: PropTypes.func,
 	datafilecancelled: PropTypes.func,
 	dataloaded: PropTypes.func,
+	drillthroughclose: PropTypes.func,
+	drillthroughopen: PropTypes.func,
 	fieldslistclose: PropTypes.func,
 	fieldslistopen: PropTypes.func,
 	filterclose: PropTypes.func,
