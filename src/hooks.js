@@ -32,6 +32,7 @@ export function Pivot(props, ref) {
         componentFolder: PropTypes.string,
         customizeAPIRequest: PropTypes.func,
         customizeCell: PropTypes.func,
+        customizeChartElement: PropTypes.func,
         customizeContextMenu: PropTypes.func,
         datachanged: PropTypes.func,
         dataerror: PropTypes.func,
