@@ -58,6 +58,8 @@ npm start
 
 To see the result open your browser on `http://localhost:3000/`.
 
+Refer to the [Flexmonster integration with React](https://www.flexmonster.com/doc/integration-with-react/) guide for more details.
+
 ## <a name="usage"></a>Usage ##
 
 All available attributes for `FlexmonsterReact.Pivot` are equivalent to those which are passed to the `new Flexmonster()` API call. Check out [the full list of available attributes](https://www.flexmonster.com/api/new-flexmonster/).
