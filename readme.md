@@ -10,6 +10,7 @@ This repository holds the source code for using [Flexmonster Pivot](https://www.
 
 * [Getting started](#getting-started)
 * [Usage](#usage)
+* [Sample project](#sample-project)
 * [License](#license)
 * [Support & feedback](#support-feedback)
 
@@ -72,6 +73,10 @@ Here is an example how such attributes can be specified:
   width="100%" 
   report="https://cdn.flexmonster.com/reports/report.json"/>
 ```
+
+## <a name="sample-project"></a>Sample project ##
+
+See our [sample React project using the Flexmonster React module](https://github.com/flexmonster/pivot-react).
 
 ## <a name="license"></a>License ##
 
