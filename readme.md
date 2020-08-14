@@ -8,71 +8,14 @@ Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. I
 
 This repository holds the source code for using [Flexmonster Pivot](https://www.flexmonster.com/) in [React](https://reactjs.org/) applications. 
 
-* [Getting started](#getting-started)
 * [Usage](#usage)
 * [Sample project](#sample-project)
 * [License](#license)
 * [Support & feedback](#support-feedback)
 
-## <a name="getting-started"></a>Getting Started ##
-
-If you don’t have React app, you can create it by running in the console:
-
-```bash
-npx create-react-app my-app
-cd my-app
-```
-
-Add Flexmonster React module by running in the console:
-
-```bash
-npm i react-flexmonster --save
-```
-
-Include `FlexmonsterReact` into `App.js`:
-
-```bash
-import * as FlexmonsterReact from 'react-flexmonster';
-```
-
-Insert a pivot table into `App.js`:
-
-```bash
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <FlexmonsterReact.Pivot toolbar={true} 
-        componentFolder="https://cdn.flexmonster.com/" width="100%" 
-        report="https://cdn.flexmonster.com/reports/report.json"/>
-      </div>
-    );
-  }
-}
-```
-
-Run your application from the console:
-
-```bash
-npm start
-```
-
-To see the result open your browser on `http://localhost:3000/`.
-
-Refer to the [Flexmonster integration with React](https://www.flexmonster.com/doc/integration-with-react/) guide for more details.
-
 ## <a name="usage"></a>Usage ##
 
-All available attributes for `FlexmonsterReact.Pivot` are equivalent to those which are passed to the `new Flexmonster()` API call. Check out [the full list of available attributes](https://www.flexmonster.com/api/new-flexmonster/).
-
-Here is an example how such attributes can be specified:
-
-```bash
-<FlexmonsterReact.Pivot toolbar={true} 
-  componentFolder="https://cdn.flexmonster.com/" 
-  width="100%" 
-  report="https://cdn.flexmonster.com/reports/report.json"/>
-```
+Refer to the [Flexmonster integration with React](https://www.flexmonster.com/doc/integration-with-react/) guide for details on the Flexmonster React module usage.
 
 ## <a name="sample-project"></a>Sample project ##
 
