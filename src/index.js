@@ -72,6 +72,7 @@ Pivot.propTypes = {
 	reportfileloaded: PropTypes.func,
 	runningquery: PropTypes.func,
 	toolbar: PropTypes.bool,
+	unauthorizederror: PropTypes.func,
 	update: PropTypes.func,
 	width: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
 }
