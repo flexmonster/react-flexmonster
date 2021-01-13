@@ -1,14 +1,20 @@
 import PropTypes from 'prop-types';
 import React from "react";
-import ReactDOM from "react-dom";
 import Flexmonster from "flexmonster";
 
 export class Pivot extends React.Component {
+
+	constructor(props) {
+		super(props);
+		// create a ref to store the DOM element	
+	    this.DOMNodeRef = React.createRef();
+	  }
 	
 	componentDidMount() {
+		const DOMNode = this.DOMNodeRef.current;
 		this.flexmonster = new Flexmonster({
 			...this.props,
-			container: ReactDOM.findDOMNode(this)
+			container: DOMNode
 		});
 	}
 	
@@ -21,7 +27,7 @@ export class Pivot extends React.Component {
 	}
 
 	render() {
-		return <div>Pivot</div>;
+		return <div ref={this.DOMNodeRef}>Pivot</div>;
 	}
 }
 
