@@ -81,6 +81,7 @@ Pivot.propTypes = {
 	unauthorizederror: PropTypes.func,
 	update: PropTypes.func,
 	width: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
+	accessibility: PropTypes.object,
 }
 
 export default Pivot;
