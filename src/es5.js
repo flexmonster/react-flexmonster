@@ -77,6 +77,7 @@ Pivot.propTypes = {
 	reportfileerror: PropTypes.func,
 	reportfileloaded: PropTypes.func,
 	runningquery: PropTypes.func,
+	sortFieldsList: PropTypes.func,
 	toolbar: PropTypes.bool,
 	unauthorizederror: PropTypes.func,
 	update: PropTypes.func,
