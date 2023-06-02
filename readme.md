@@ -11,15 +11,15 @@ This package is a [Flexmonster Pivot](https://www.flexmonster.com/) wrapper for 
 Table of contents:
 
 * [Usage](#usage)
-* [Sample Project](#sample-project)
+* [Sample project](#sample-project)
 * [License](#license)
-* [Support & feedback](#support-feedback)
+* [Support and feedback](#support-feedback)
 
 ## <a name="usage"></a>Usage ##
 
-Refer to [Flexmonster integration with React](https://www.flexmonster.com/doc/integration-with-react/) for details on the wrapper usage.
+Refer to the [Integration with React](https://www.flexmonster.com/doc/integration-with-react/) guide for details on the wrapper usage.
 
-## <a name="sample-project"></a>Sample Project ##
+## <a name="sample-project"></a>Sample project ##
 
 See our [sample React project with Flexmonster](https://github.com/flexmonster/pivot-react).
 
@@ -29,6 +29,6 @@ Here is the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table
 
 Flexmonster React wrapper is released as an MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
 
-## <a name="support-feedback"></a>Support & feedback ##
+## <a name="support-feedback"></a>Support and feedback ##
 
 Please share your feedback or ask questions via [Flexmonster Help Center](https://www.flexmonster.com/help-center/).
