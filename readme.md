@@ -8,6 +8,8 @@ Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. I
 
 This package is a [Flexmonster Pivot](https://www.flexmonster.com/) wrapper for [React](https://reactjs.org/) applications. 
 
+Table of contents:
+
 * [Usage](#usage)
 * [Sample Project](#sample-project)
 * [License](#license)
