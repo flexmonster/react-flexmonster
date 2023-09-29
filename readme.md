@@ -39,7 +39,7 @@ Refer to [Using methods and events with Next.js](https://www.flexmonster.com/doc
 
 If you look for some reference examples, our team prepared a ready-to-use [React pivot grid sample project](https://github.com/flexmonster/pivot-react?r=wrap_react) with live demos of the most popular use cases. Visit the [usage examples documentation](https://www.flexmonster.com/doc/usage-examples-react?r=wrap_react) page to learn more about how the cases were implemented in an React project.
 
-In our documentation, you can find [a guide for the sample Angular application](https://www.flexmonster.com/doc/sample-react-project?r=wrap_react). There, you can learn how to run it and what's inside.
+In our documentation, you can find [a guide for the sample React application](https://www.flexmonster.com/doc/sample-react-project?r=wrap_react). There, you can learn how to run it and what's inside.
 
 The same guides you can find for the Next.js framework:
 - [Next.js pivot table sample project](https://github.com/flexmonster/pivot-react/tree/master/nextjs-ts?r=wrap_react)
