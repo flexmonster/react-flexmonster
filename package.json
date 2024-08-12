@@ -50,15 +50,15 @@
     "babel-loader": "^7.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-env": "^1.5.1",
+    "babel-preset-env": "^0.0.0",
     "babel-preset-react": "^6.24.1",
-    "css-loader": "^1.0.0",
+    "css-loader": "^7.1.2",
     "file-loader": "^2.0.0",
     "style-loader": "^0.23.0",
     "url-loader": "^1.1.2",
-    "webpack": "^4.20.2",
+    "webpack": "^5.93.0",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.4.1"
+    "webpack-dev-server": "^5.0.4"
   },
   "browserslist": [
     ">0.2%",
