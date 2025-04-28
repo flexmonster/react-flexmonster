@@ -1,6 +1,6 @@
 {
   "name": "react-flexmonster",
-  "version": "2.9.101",
+  "version": "2.9.102",
   "license": "MIT",
   "description": "React wrapper for Flexmonster Pivot Table and Charts",
   "main": "./build/index.js",
