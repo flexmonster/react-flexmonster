@@ -6,13 +6,13 @@
   "main": "./build/index.js",
   "typings": "./build/index.d.ts",
   "peerDependencies": {
-    "flexmonster": "2.9.108",
+    "flexmonster": "2.9.109",
     "prop-types": "^15.7.2",
     "react": "^17.0.0 || ^18.0.0 || ^19.0.0",
     "react-dom": "^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "dependencies": {
-    "flexmonster": "2.9.108",
+    "flexmonster": "2.9.109",
     "prop-types": "^15.7.2",
     "react": "^17.0.0 || ^18.0.0 || ^19.0.0",
     "react-dom": "^17.0.0 || ^18.0.0 || ^19.0.0"
