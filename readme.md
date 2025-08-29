@@ -23,7 +23,11 @@ Table of contents:
 
 ## Integration
 
-Flexmonster documentation provides a detailed step-by-step guide on [іntegration with React](https://www.flexmonster.com/doc/integration-with-react/?r=wrap_react) and [integration with Next.js](https://www.flexmonster.com/doc/integration-with-next-js?r=wrap_react). 
+Flexmonster documentation provides a detailed step-by-step guide on [іntegration with React](https://www.flexmonster.com/doc/integration-with-react/?r=wrap_react) and [integration with Next.js](https://www.flexmonster.com/doc/integration-with-next-js?r=wrap_react).
+
+The tutorial for React is also available in video format on our YouTube channel:
+
+[![React video tutorial](https://static.flexmonster.com/uploads/2025/08/29154208/Screenshot-2025-08-29-at-16.38.12.png)](https://youtu.be/OErNgDPyTR8)
 
 
 ## Usage
