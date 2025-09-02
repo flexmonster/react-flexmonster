@@ -27,12 +27,12 @@ Flexmonster documentation provides a detailed step-by-step guide on [іntegratio
 
 The tutorial for React is also available in video format on our YouTube channel:
 
-[![React video tutorial](https://static.flexmonster.com/uploads/2025/08/29154208/Screenshot-2025-08-29-at-16.38.12.png)](https://youtu.be/OErNgDPyTR8)
+[![React video tutorial](https://static.flexmonster.com/uploads/2025/09/02160048/React-preview.png)](https://youtu.be/OErNgDPyTR8)
 
 
 ## Usage
 
-The wrapper provides  the  `FlexmonsterReact.Pivot` component to add the pivot table to the React project. Read more about the available props and how to use them in the [FlexmonsterReact.Pivot component](https://www.flexmonster.com/doc/flexmonster-pivot-component-for-react?r=wrap_react) documentation.
+The wrapper provides  the  `FlexmonsterReact.Pivot` component to add the pivot table to the React project. Read more about the available props and how to use them in the [FlexmonsterReact.Pivot component documentation](https://www.flexmonster.com/doc/flexmonster-pivot-component-for-react?r=wrap_react).
 
 Explore the available [methods and events](https://www.flexmonster.com/doc/using-methods-and-events-react?r=wrap_react) to learn the specifics of using and customizing Flexmonster in a React application.
 
@@ -41,7 +41,7 @@ Refer to the [Using methods and events with Next.js](https://www.flexmonster.com
 
 ## Sample project
 
-If you look for some reference examples, our team prepared a ready-to-use [React pivot grid sample project](https://github.com/flexmonster/pivot-react?r=wrap_react) with live demos of the most popular use cases. Visit the [Usage examples](https://www.flexmonster.com/doc/usage-examples-react?r=wrap_react) page to see how the cases were implemented in the React project.
+If you look for some reference examples, our team prepared a ready-to-use [React pivot grid sample project](https://github.com/flexmonster/pivot-react?r=wrap_react) with live demos of the most popular use cases. Visit the [Usage examples](https://www.flexmonster.com/doc/usage-examples-react?r=wrap_react) page to see how the cases were implemented in a React project.
 
 In our documentation, you can also find a [guide for the sample React application](https://www.flexmonster.com/doc/sample-react-project?r=wrap_react). There, you can learn how to run it and what's inside.
 
