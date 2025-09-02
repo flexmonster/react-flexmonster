@@ -32,7 +32,7 @@ The tutorial for React is also available in video format on our YouTube channel:
 
 ## Usage
 
-The wrapper provides  the  `FlexmonsterReact.Pivot` component to add the pivot table to the React project. Read more about the available props and how to use them in the [FlexmonsterReact.Pivot component documentation](https://www.flexmonster.com/doc/flexmonster-pivot-component-for-react?r=wrap_react).
+The wrapper provides  the  `FlexmonsterReact.Pivot` component to add the pivot table to a React project. Read more about the available props and how to use them in the [FlexmonsterReact.Pivot component documentation](https://www.flexmonster.com/doc/flexmonster-pivot-component-for-react?r=wrap_react).
 
 Explore the available [methods and events](https://www.flexmonster.com/doc/using-methods-and-events-react?r=wrap_react) to learn the specifics of using and customizing Flexmonster in a React application.
 
