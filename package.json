@@ -43,7 +43,7 @@
   "bugs": {
     "url": "https://flexmonster.com/technical-support/"
   },
-  "homepage": "https://flexmonster.com/",
+  "homepage": "https://flexmonster.com",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
