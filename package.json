@@ -1,6 +1,6 @@
 {
   "name": "react-flexmonster",
-  "version": "2.9.115",
+  "version": "2.9.116",
   "license": "https://www.flexmonster.com/software-license-agreement/",
   "description": "React wrapper for Flexmonster Pivot Table and Charts",
   "main": "./build/index.js",
